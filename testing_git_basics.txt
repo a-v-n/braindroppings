@@ -1,7 +1,0 @@
-this is the first line added.
-will commit and push this.
-
-
-this part is new in laptop. not pushed yet.
-although upstream there is a new file.
-need to fetch and see how it goes.
